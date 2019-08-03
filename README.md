@@ -2,12 +2,18 @@
 
 [Demo](demo.webm)
 
+## Command Examples
+
+concert-this
 ![concert-this](pic_01.png)
 
+spotify-this-song
 ![spotify-this-song](pic_02.png)
 
+movie-this
 ![movie-this](pic_03.png)
 
+do-what-it-says
 ![do-what-it-says](pic_04.png)
 
 ### Overview
