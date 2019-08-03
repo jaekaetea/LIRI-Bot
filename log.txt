@@ -1,0 +1,1180 @@
+concert-this undefined
+LIRI Bot says invalid input.  
+LIRI Bot is looking up blink-182.
+
+=========================
+1
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: El Paso, TX
+Date: 08/04/2019
+=========================
+
+=========================
+2
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Phoenix, AZ
+Date: 08/05/2019
+=========================
+
+=========================
+3
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: San Diego, CA
+Date: 08/07/2019
+=========================
+
+=========================
+4
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Los Angeles, CA
+Date: 08/08/2019
+=========================
+
+=========================
+5
+Venue: Outside Lands 2019
+Location: San Francisco, CA
+Date: 08/09/2019
+=========================
+
+=========================
+6
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Irvine, CA
+Date: 08/27/2019
+=========================
+
+=========================
+7
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Ridgefield, WA
+Date: 08/30/2019
+=========================
+
+=========================
+8
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Seattle, WA
+Date: 08/31/2019
+=========================
+
+=========================
+9
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Salt Lake City, UT
+Date: 09/02/2019
+=========================
+
+=========================
+10
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Denver, CO
+Date: 09/04/2019
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+concert-this the wiggles
+
+=========================
+1
+Venue: ACL Live at the Moody Theater
+Location: Austin, TX
+Date: 08/12/2019
+=========================
+
+=========================
+2
+Venue: Coca-Cola Coliseum
+Location: Toronto, Canada
+Date: 10/06/2019
+=========================
+
+=========================
+3
+Venue: The Empire Theater
+Location: Belleville, Canada
+Date: 10/08/2019
+=========================
+
+=========================
+4
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/19/2019
+=========================
+
+=========================
+5
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/23/2019
+=========================
+
+=========================
+6
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/24/2019
+=========================
+
+=========================
+7
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/30/2019
+=========================
+
+=========================
+8
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/01/2019
+=========================
+
+=========================
+9
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/07/2019
+=========================
+
+=========================
+10
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/08/2019
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+spotify-this-song undefined
+
+=========================
+Artist(s): Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Sign (US Album) [Remastered]
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+spotify-this-song miss you
+
+=========================
+1
+Artist(s): blink-182
+Track: I Miss You
+Preview URL: null
+Album: blink-182
+=========================
+
+=========================
+2
+Artist(s): Sam Hunt
+Track: Make You Miss Me
+Preview URL: null
+Album: Montevallo
+=========================
+
+=========================
+3
+Artist(s): blackbear
+Track: i miss the old u
+Preview URL: null
+Album: digital druglord
+=========================
+
+=========================
+4
+Artist(s): Clean Bandit, Julia Michaels
+Track: I Miss You (feat. Julia Michaels)
+Preview URL: https://p.scdn.co/mp3-preview/8ff021535ae4be15542c4d63361f0cbfee4956e6?cid=c84b88ddedd44284a035a44c170c768d
+Album: What Is Love? (Deluxe Edition)
+=========================
+
+=========================
+5
+Artist(s): The Rolling Stones
+Track: Miss You - Remastered
+Preview URL: null
+Album: Some Girls
+=========================
+
+=========================
+6
+Artist(s): O.A.R.
+Track: Miss You All The Time
+Preview URL: https://p.scdn.co/mp3-preview/7a7a8c692f9d10fea226f93ed9dec347363fa97a?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Mighty
+=========================
+
+=========================
+7
+Artist(s): blink-182
+Track: I Miss You
+Preview URL: null
+Album: blink-182
+=========================
+
+=========================
+8
+Artist(s): The Black Keys
+Track: Sit Around And Miss You
+Preview URL: https://p.scdn.co/mp3-preview/3bbe3c09942b301aa270789536fbc5ddc115602c?cid=c84b88ddedd44284a035a44c170c768d
+Album: "Let's Rock"
+=========================
+
+=========================
+9
+Artist(s): Louis Tomlinson
+Track: Miss You
+Preview URL: https://p.scdn.co/mp3-preview/62b5b741aa6c6b31c3edf6a9da0c5739a5c95960?cid=c84b88ddedd44284a035a44c170c768d
+Album: Miss You
+=========================
+
+=========================
+10
+Artist(s): Adele
+Track: I Miss You
+Preview URL: https://p.scdn.co/mp3-preview/078f747618e5be9283aa59ee94ba013206400abe?cid=c84b88ddedd44284a035a44c170c768d
+Album: 25
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+movie-this undefined
+If you haven't watched "Mr. Nobody", then you should: http://www.imdb.com/title/tt0485947/
+Unfortunately, they removed it from Netflix, but rent it at your local BlockBuster.
+
+=========================
+Title: Mr. Nobody
+Release Year: 2009
+Internet Movie Database: 7.8/10
+Rotten Tomatoes: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+movie-this Eternal Sunshine
+=========================
+Title: Eternal Sunshine of the Spotless Mind
+Release Year: 2004
+Internet Movie Database: 8.3/10
+Rotten Tomatoes: 93%
+Country Produced: USA
+Language: English
+Plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+do-what-it-says undefined
+spotify-this-song,"I Want it That Way"
+
+=========================
+1
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Hits--Chapter One
+=========================
+
+=========================
+2
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c84b88ddedd44284a035a44c170c768d
+Album: Millennium
+=========================
+
+=========================
+3
+Artist(s): Mick Jensen
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=c84b88ddedd44284a035a44c170c768d
+Album: I Want It That Way
+=========================
+
+=========================
+4
+Artist(s): Anthem Lights
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=c84b88ddedd44284a035a44c170c768d
+Album: Covers Part IV
+=========================
+
+=========================
+5
+Artist(s): Backstreet Boys
+Track: I Want It That Way - Reimagined
+Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=c84b88ddedd44284a035a44c170c768d
+Album: I Want It That Way (Reimagined)
+=========================
+
+=========================
+6
+Artist(s): "Weird Al" Yankovic
+Track: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=c84b88ddedd44284a035a44c170c768d
+Album: Poodle Hat
+=========================
+
+=========================
+7
+Artist(s): Tyler and Mark
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=c84b88ddedd44284a035a44c170c768d
+Album: Beautiful Dreams
+=========================
+
+=========================
+8
+Artist(s): Jess and Gabriel
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=c84b88ddedd44284a035a44c170c768d
+Album: Under the Covers, Vol. 3
+=========================
+
+=========================
+9
+Artist(s): Dynamite Boy
+Track: I Want It That Way
+Preview URL: null
+Album: Punk Goes Pop
+=========================
+
+=========================
+10
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=c84b88ddedd44284a035a44c170c768d
+Album: 90 Sweet 90s Hits!
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+undefined undefined
+
+
+LIRI Bot is a Language Interpretation and Recognition Interface.  
+Please input the correct commands. . .  Silly humans.concert-this undefined
+LIRI Bot says invalid input.  
+LIRI Bot is looking up blink-182.
+
+=========================
+1
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: El Paso, TX
+Date: 08/04/2019
+=========================
+
+=========================
+2
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Phoenix, AZ
+Date: 08/05/2019
+=========================
+
+=========================
+3
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: San Diego, CA
+Date: 08/07/2019
+=========================
+
+=========================
+4
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Los Angeles, CA
+Date: 08/08/2019
+=========================
+
+=========================
+5
+Venue: Outside Lands 2019
+Location: San Francisco, CA
+Date: 08/09/2019
+=========================
+
+=========================
+6
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Irvine, CA
+Date: 08/27/2019
+=========================
+
+=========================
+7
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Ridgefield, WA
+Date: 08/30/2019
+=========================
+
+=========================
+8
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Seattle, WA
+Date: 08/31/2019
+=========================
+
+=========================
+9
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Salt Lake City, UT
+Date: 09/02/2019
+=========================
+
+=========================
+10
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Denver, CO
+Date: 09/04/2019
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+concert-this the wiggles
+
+=========================
+1
+Venue: ACL Live at the Moody Theater
+Location: Austin, TX
+Date: 08/12/2019
+=========================
+
+=========================
+2
+Venue: Coca-Cola Coliseum
+Location: Toronto, Canada
+Date: 10/06/2019
+=========================
+
+=========================
+3
+Venue: The Empire Theater
+Location: Belleville, Canada
+Date: 10/08/2019
+=========================
+
+=========================
+4
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/19/2019
+=========================
+
+=========================
+5
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/23/2019
+=========================
+
+=========================
+6
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/24/2019
+=========================
+
+=========================
+7
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/30/2019
+=========================
+
+=========================
+8
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/01/2019
+=========================
+
+=========================
+9
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/07/2019
+=========================
+
+=========================
+10
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/08/2019
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+spotify-this-song undefined
+
+=========================
+Artist(s): Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Sign (US Album) [Remastered]
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+spotify-this-song miss you
+
+=========================
+1
+Artist(s): blink-182
+Track: I Miss You
+Preview URL: null
+Album: blink-182
+=========================
+
+=========================
+2
+Artist(s): Sam Hunt
+Track: Make You Miss Me
+Preview URL: null
+Album: Montevallo
+=========================
+
+=========================
+3
+Artist(s): blackbear
+Track: i miss the old u
+Preview URL: null
+Album: digital druglord
+=========================
+
+=========================
+4
+Artist(s): Clean Bandit, Julia Michaels
+Track: I Miss You (feat. Julia Michaels)
+Preview URL: https://p.scdn.co/mp3-preview/8ff021535ae4be15542c4d63361f0cbfee4956e6?cid=c84b88ddedd44284a035a44c170c768d
+Album: What Is Love? (Deluxe Edition)
+=========================
+
+=========================
+5
+Artist(s): The Rolling Stones
+Track: Miss You - Remastered
+Preview URL: null
+Album: Some Girls
+=========================
+
+=========================
+6
+Artist(s): O.A.R.
+Track: Miss You All The Time
+Preview URL: https://p.scdn.co/mp3-preview/7a7a8c692f9d10fea226f93ed9dec347363fa97a?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Mighty
+=========================
+
+=========================
+7
+Artist(s): blink-182
+Track: I Miss You
+Preview URL: null
+Album: blink-182
+=========================
+
+=========================
+8
+Artist(s): The Black Keys
+Track: Sit Around And Miss You
+Preview URL: https://p.scdn.co/mp3-preview/3bbe3c09942b301aa270789536fbc5ddc115602c?cid=c84b88ddedd44284a035a44c170c768d
+Album: "Let's Rock"
+=========================
+
+=========================
+9
+Artist(s): Louis Tomlinson
+Track: Miss You
+Preview URL: https://p.scdn.co/mp3-preview/62b5b741aa6c6b31c3edf6a9da0c5739a5c95960?cid=c84b88ddedd44284a035a44c170c768d
+Album: Miss You
+=========================
+
+=========================
+10
+Artist(s): Adele
+Track: I Miss You
+Preview URL: https://p.scdn.co/mp3-preview/078f747618e5be9283aa59ee94ba013206400abe?cid=c84b88ddedd44284a035a44c170c768d
+Album: 25
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+movie-this undefined
+If you haven't watched "Mr. Nobody", then you should: http://www.imdb.com/title/tt0485947/
+Unfortunately, they removed it from Netflix, but rent it at your local BlockBuster.
+
+=========================
+Title: Mr. Nobody
+Release Year: 2009
+Internet Movie Database: 7.8/10
+Rotten Tomatoes: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+movie-this eternal sunshine
+=========================
+Title: Eternal Sunshine of the Spotless Mind
+Release Year: 2004
+Internet Movie Database: 8.3/10
+Rotten Tomatoes: 93%
+Country Produced: USA
+Language: English
+Plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+do-what-it-says undefined
+spotify-this-song,"I Want it That Way"
+
+=========================
+1
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Hits--Chapter One
+=========================
+
+=========================
+2
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c84b88ddedd44284a035a44c170c768d
+Album: Millennium
+=========================
+
+=========================
+3
+Artist(s): Mick Jensen
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=c84b88ddedd44284a035a44c170c768d
+Album: I Want It That Way
+=========================
+
+=========================
+4
+Artist(s): Anthem Lights
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=c84b88ddedd44284a035a44c170c768d
+Album: Covers Part IV
+=========================
+
+=========================
+5
+Artist(s): Backstreet Boys
+Track: I Want It That Way - Reimagined
+Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=c84b88ddedd44284a035a44c170c768d
+Album: I Want It That Way (Reimagined)
+=========================
+
+=========================
+6
+Artist(s): "Weird Al" Yankovic
+Track: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=c84b88ddedd44284a035a44c170c768d
+Album: Poodle Hat
+=========================
+
+=========================
+7
+Artist(s): Tyler and Mark
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=c84b88ddedd44284a035a44c170c768d
+Album: Beautiful Dreams
+=========================
+
+=========================
+8
+Artist(s): Jess and Gabriel
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=c84b88ddedd44284a035a44c170c768d
+Album: Under the Covers, Vol. 3
+=========================
+
+=========================
+9
+Artist(s): Dynamite Boy
+Track: I Want It That Way
+Preview URL: null
+Album: Punk Goes Pop
+=========================
+
+=========================
+10
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=c84b88ddedd44284a035a44c170c768d
+Album: 90 Sweet 90s Hits!
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+do-what-it-sayasdfjhaksdf undefined
+
+
+LIRI Bot is a Language Interpretation and Recognition Interface.  
+Please input the correct commands. . .  Silly humans.concert-this undefined
+LIRI Bot says invalid input.  
+LIRI Bot is looking up blink-182.
+
+=========================
+1
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: El Paso, TX
+Date: 08/04/2019
+=========================
+
+=========================
+2
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Phoenix, AZ
+Date: 08/05/2019
+=========================
+
+=========================
+3
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: San Diego, CA
+Date: 08/07/2019
+=========================
+
+=========================
+4
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Los Angeles, CA
+Date: 08/08/2019
+=========================
+
+=========================
+5
+Venue: Outside Lands 2019
+Location: San Francisco, CA
+Date: 08/09/2019
+=========================
+
+=========================
+6
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Irvine, CA
+Date: 08/27/2019
+=========================
+
+=========================
+7
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Ridgefield, WA
+Date: 08/30/2019
+=========================
+
+=========================
+8
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Seattle, WA
+Date: 08/31/2019
+=========================
+
+=========================
+9
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Salt Lake City, UT
+Date: 09/02/2019
+=========================
+
+=========================
+10
+Venue: blink-182 & Lil Wayne Tour 2019
+Location: Denver, CO
+Date: 09/04/2019
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+concert-this the wiggles
+
+=========================
+1
+Venue: ACL Live at the Moody Theater
+Location: Austin, TX
+Date: 08/12/2019
+=========================
+
+=========================
+2
+Venue: Coca-Cola Coliseum
+Location: Toronto, Canada
+Date: 10/06/2019
+=========================
+
+=========================
+3
+Venue: The Empire Theater
+Location: Belleville, Canada
+Date: 10/08/2019
+=========================
+
+=========================
+4
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/19/2019
+=========================
+
+=========================
+5
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/23/2019
+=========================
+
+=========================
+6
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/24/2019
+=========================
+
+=========================
+7
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 11/30/2019
+=========================
+
+=========================
+8
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/01/2019
+=========================
+
+=========================
+9
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/07/2019
+=========================
+
+=========================
+10
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 12/08/2019
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+spotify-this-song undefined
+
+=========================
+Artist(s): Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Sign (US Album) [Remastered]
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+spotify-this-song miss you
+
+=========================
+1
+Artist(s): blink-182
+Track: I Miss You
+Preview URL: null
+Album: blink-182
+=========================
+
+=========================
+2
+Artist(s): Sam Hunt
+Track: Make You Miss Me
+Preview URL: null
+Album: Montevallo
+=========================
+
+=========================
+3
+Artist(s): blackbear
+Track: i miss the old u
+Preview URL: null
+Album: digital druglord
+=========================
+
+=========================
+4
+Artist(s): Clean Bandit, Julia Michaels
+Track: I Miss You (feat. Julia Michaels)
+Preview URL: https://p.scdn.co/mp3-preview/8ff021535ae4be15542c4d63361f0cbfee4956e6?cid=c84b88ddedd44284a035a44c170c768d
+Album: What Is Love? (Deluxe Edition)
+=========================
+
+=========================
+5
+Artist(s): The Rolling Stones
+Track: Miss You - Remastered
+Preview URL: null
+Album: Some Girls
+=========================
+
+=========================
+6
+Artist(s): O.A.R.
+Track: Miss You All The Time
+Preview URL: https://p.scdn.co/mp3-preview/7a7a8c692f9d10fea226f93ed9dec347363fa97a?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Mighty
+=========================
+
+=========================
+7
+Artist(s): blink-182
+Track: I Miss You
+Preview URL: null
+Album: blink-182
+=========================
+
+=========================
+8
+Artist(s): The Black Keys
+Track: Sit Around And Miss You
+Preview URL: https://p.scdn.co/mp3-preview/3bbe3c09942b301aa270789536fbc5ddc115602c?cid=c84b88ddedd44284a035a44c170c768d
+Album: "Let's Rock"
+=========================
+
+=========================
+9
+Artist(s): Louis Tomlinson
+Track: Miss You
+Preview URL: https://p.scdn.co/mp3-preview/62b5b741aa6c6b31c3edf6a9da0c5739a5c95960?cid=c84b88ddedd44284a035a44c170c768d
+Album: Miss You
+=========================
+
+=========================
+10
+Artist(s): Adele
+Track: I Miss You
+Preview URL: https://p.scdn.co/mp3-preview/078f747618e5be9283aa59ee94ba013206400abe?cid=c84b88ddedd44284a035a44c170c768d
+Album: 25
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+movie-this undefined
+If you haven't watched "Mr. Nobody", then you should: http://www.imdb.com/title/tt0485947/
+Unfortunately, they removed it from Netflix, but rent it at your local BlockBuster.
+
+=========================
+Title: Mr. Nobody
+Release Year: 2009
+Internet Movie Database: 7.8/10
+Rotten Tomatoes: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+movie-this eternal sunshine
+=========================
+Title: Eternal Sunshine of the Spotless Mind
+Release Year: 2004
+Internet Movie Database: 8.3/10
+Rotten Tomatoes: 93%
+Country Produced: USA
+Language: English
+Plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+movie-this Titanix
+Movie not found.
+If you haven't watched "Mr. Nobody", then you should: http://www.imdb.com/title/tt0485947/
+Unfortunately, they removed it from Netflix, but rent it at your local BlockBuster.
+
+=========================
+Title: Mr. Nobody
+Release Year: 2009
+Internet Movie Database: 7.8/10
+Rotten Tomatoes: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+do-what-it-says undefined
+spotify-this-song,"I Want it That Way"
+
+=========================
+1
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c84b88ddedd44284a035a44c170c768d
+Album: The Hits--Chapter One
+=========================
+
+=========================
+2
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c84b88ddedd44284a035a44c170c768d
+Album: Millennium
+=========================
+
+=========================
+3
+Artist(s): Mick Jensen
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=c84b88ddedd44284a035a44c170c768d
+Album: I Want It That Way
+=========================
+
+=========================
+4
+Artist(s): Anthem Lights
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=c84b88ddedd44284a035a44c170c768d
+Album: Covers Part IV
+=========================
+
+=========================
+5
+Artist(s): Backstreet Boys
+Track: I Want It That Way - Reimagined
+Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=c84b88ddedd44284a035a44c170c768d
+Album: I Want It That Way (Reimagined)
+=========================
+
+=========================
+6
+Artist(s): "Weird Al" Yankovic
+Track: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=c84b88ddedd44284a035a44c170c768d
+Album: Poodle Hat
+=========================
+
+=========================
+7
+Artist(s): Tyler and Mark
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=c84b88ddedd44284a035a44c170c768d
+Album: Beautiful Dreams
+=========================
+
+=========================
+8
+Artist(s): Jess and Gabriel
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=c84b88ddedd44284a035a44c170c768d
+Album: Under the Covers, Vol. 3
+=========================
+
+=========================
+9
+Artist(s): Dynamite Boy
+Track: I Want It That Way
+Preview URL: null
+Album: Punk Goes Pop
+=========================
+
+=========================
+10
+Artist(s): Backstreet Boys
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=c84b88ddedd44284a035a44c170c768d
+Album: 90 Sweet 90s Hits!
+=========================
+
+
+Collecting ALL your data.
+LIRI Bot thanks you for teaching it how to be human.
+
+
+do-what-it-asjdkfhakjsdf undefined
+
+
+LIRI Bot is a Language Interpretation and Recognition Interface.  
+Please input the correct commands. . .  Silly humans.
